@@ -1,0 +1,21 @@
+.divs{
+    background-color: #4dffff
+}
+
+
+#p{
+
+  color:#3399ff;    
+}
+#p:hover{
+    background-color:yellow;
+}
+#test{
+    width:300px;
+    border: 25px solid navy;
+    
+}
+.LM:hover{
+    background-color:yellow;
+}
+
